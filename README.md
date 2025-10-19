@@ -47,8 +47,8 @@ A compact, end-to-end framework to **simulate** emergency ambulance operations a
 $\eta_s=\frac{2\sum s_c+\sum s_a}{2\gamma+\delta}$
 
 - Cardiac: $s_c=\frac{1}{1+e^{(-0.26+0.139\,T_r)}}$
-- Category A:  $s_a$=1  if $T_r$ < 8 minutes else 0 
-- $\gamma $ = # cardiac calls, $\delta$ = # Category A calls
+- Category A:  $s_a$ = 1  if $T_r$ < 8 minutes else 0 
+- $\gamma$ = # cardiac calls, $\delta$ = # Category A calls
 
 
 
